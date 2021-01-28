@@ -7,4 +7,5 @@
 - 👬 联系我：Wechat：Mikelucis（[二维码](https://s1.ax1x.com/2020/04/20/JMjiBd.jpg)） |  QQ：3023499588（[跳转链接](//im/chat?chat_type=wpa&uin=3023499588&version=1&src_type=web&web_src=oicqzone.com)）<br>Weibo：Mikelucis（[直达链接](https://weibo.com/u/5026640622)） |  Email：[Contact@mikelucis.site](mailto:contact@mikelucis.site)</br>
 - 💬 ***“ 生命在于折腾 ”***
 ## 新年汇总 ✨
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Mikelucis&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikelucis&hide_title=true&hide_border=true&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy&locale=cn" />
+[![Mikelucis's github stats](https://github-readme-stats.vercel.app/api?username=Mikelucis&show_icons=true&theme=buefy&layout=compact&line_height=21&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Mikelucis's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikelucis&&show_icons=true&theme=buefy&layout=compact&line_height=21&locale=en)](https://github.com/anuraghazra/github-readme-stats)
